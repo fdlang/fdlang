@@ -26,7 +26,7 @@ const dflang = {
 
 ### You can find me 🌎:
 - [Linkedin](https://linkedin.com/in/angelarcosfidel)
-- 📫 Email: angel_arcos@outlook.es
+- 📫 [Email](angel_arcos@outlook.es)
 
 
 
