@@ -1,15 +1,17 @@
-### Hi there 👋
+### Hi I'm Angel 👋🧑‍💻
 
 ```js
 const dflang = {
- pronouns: "he" | "him",
- code: [Java, Python, JavaScript, Html, Css], 
- DB: [Sql, MySQL, SQLite], 
- SO: [Windows, Linux], 
+ passions: 'Front End Developer',
+ code: ['Java','Python','JavaScript','Html','Css'], 
+ DB: ['Sql','MySQL','SQLite'], 
+ SO: ['Windows','Linux'], 
 }
 ```
-
-
+### You can find me 🌎:
+- [Linkedin](https://linkedin.com/in/angelarcosfidel)
+ 
+ 
 <!--
 **fdlang/fdlang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
