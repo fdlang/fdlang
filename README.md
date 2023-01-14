@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+const dflang = {
+  pronouns: "he" | "him",
+  code: [Java, Python, JavaScript, Html, CSS],
+  DB: [SQL, MySQL, SQLite],
+  SO: [Windows, Linux],
+}
+
+
 <!--
 **fdlang/fdlang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
