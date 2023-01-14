@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-
+```js
 const dflang = {
-  pronouns: "he" | "him",
-  code: [Java, Python, JavaScript, Html, CSS],
-  DB: [SQL, MySQL, SQLite],
-  SO: [Windows, Linux],
+ pronouns: "he" | "him",
+ code: [Java, Python, JavaScript, Html, CSS], 
+ DB: [SQL, MySQL, SQLite], 
+ SO: [Windows, Linux], 
 }
+```
 
 
 <!--
