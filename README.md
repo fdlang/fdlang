@@ -24,14 +24,18 @@ const dflang = {
 </p>
    
 
+
+
+
 ### You can find me 🌎:
-- [Linkedin](https://linkedin.com/in/angelarcosfidel)
-- 📫 [Email](mailto:angel_arcos@outlook.es)
-
-
+&nbsp; &nbsp; <a href="https://linkedin.com/in/angelarcosfidel" >![Logo-Linkedin(1)](https://user-images.githubusercontent.com/114931554/212490115-50b820d2-a3c6-4d99-8cb8-11d54e6eca24.png) </a>
+  
+&nbsp; &nbsp; <a href="mailto:angel_arcos@outlook.es"> ![email(35x35)](https://user-images.githubusercontent.com/114931554/212490224-12c78a50-5b13-414f-8862-c1604f609a67.png) </a>
+ 
 
 
 <!--
+
 **fdlang/fdlang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
