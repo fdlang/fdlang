@@ -3,8 +3,8 @@
 ```js
 const dflang = {
  pronouns: "he" | "him",
- code: [Java, Python, JavaScript, Html, CSS], 
- DB: [SQL, MySQL, SQLite], 
+ code: [Java, Python, JavaScript, Html, Css], 
+ DB: [Sql, MySQL, SQLite], 
  SO: [Windows, Linux], 
 }
 ```
