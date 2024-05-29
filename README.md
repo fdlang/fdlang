@@ -3,9 +3,9 @@
 ### 🧑‍💻 about me in code 
 ```js
 const dflang = {
- passions: 'Front End Developer',
- code: ['Java','Python','JavaScript','Html','Css'], 
- DB: ['Sql','MySQL','SQLite'], 
+ passions: 'Full Stack developer',
+ code: ['Java','Python','JavaScript','PHP','Html','Css'], 
+ DB: ['SQL','NoSQL'], 
  SO: ['Windows','Linux'], 
 }
 ```
